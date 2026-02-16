@@ -1,0 +1,12 @@
+[0216/015244.832:WARNING:content\browser\btm\btm_database.cc:128] Failed to initialize the DIPS SQLite database.
+[0216/015244.832:WARNING:content\browser\btm\btm_database.cc:128] Failed to initialize the DIPS SQLite database.
+[0216/015244.853:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Отказано в доступе. (0x5)
+[0216/015244.853:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Отказано в доступе. (0x5)
+[0216/015244.853:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0216/015244.854:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0216/015244.854:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0216/015244.854:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0216/015244.877:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Отказано в доступе. (0x5)
+[0216/015244.878:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0216/015244.878:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0216/015246.892:WARNING:components\leveldb_proto\internal\leveldb_database.cc:124] Unable to open D:\Projects\TestMTS(ExternalCrawler)\bestsellers\pw-data\Default\shared_proto_db\metadata: IO error: D:\Projects\TestMTS(ExternalCrawler)\bestsellers\pw-data\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
